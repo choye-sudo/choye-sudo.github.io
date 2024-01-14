@@ -1,16 +1,16 @@
 # Configurations
-title:            Jekyll Gitbook
-longtitle:        Jekyll Gitbook
-author:           HE Tao
-email:            sighingnow@gmail.com
+title:            choye-sudo blog
+longtitle:        choye-sudo blog
+author:           Cho Ye Eun
+email:            inbrain144@gmail.com
 description: >
-  Build Jekyll site with the GitBook style.
+  개발한다. 반성한다. 정리한다.
 
 version:          1.0
 gitbook_version:  3.2.3
 
-url:              'https://sighingnow.github.io'
-baseurl:          '/jekyll-gitbook'
+url:              'https://choye-sudo.github.io/'
+baseurl:          '/choye-sudo'
 rss:              RSS
 
 # bootstrap: use the remote theme for the site itself
